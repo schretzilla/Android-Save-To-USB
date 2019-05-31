@@ -1,7 +1,8 @@
 
 # Saving to USB on Rooted Android Devices
 
-This is a code snippet that should hopefully help someone save to USB on a rooted android device.
+This is a code snippet that should hopefully help someone save to USB on a rooted android device. Here I save the files somewhere
+locally then I copy them over to USB as I needed them in two spots for my application. 
 
 There are 2 tricks to point out:
 
